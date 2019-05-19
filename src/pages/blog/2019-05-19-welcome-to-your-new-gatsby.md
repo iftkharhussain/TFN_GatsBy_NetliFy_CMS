@@ -16,9 +16,10 @@ description: |-
   Now go build something great.Welcome to your new Gatsby site.
 
   Now go build something great.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
-  - ''
+  - flavor
+  - tasting
 ---
 > Welcome to your new Gatsby site. Now go build something great.Welcome to your new Gatsby site. Now go build som
